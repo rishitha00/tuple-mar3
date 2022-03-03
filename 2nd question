@@ -1,0 +1,9 @@
+tuple_1 = (1,2,3)
+tuple_2= (4,5,6)
+tuple_3 = tuple_1 + tuple_2
+print('The first tuple is')
+print(tuple_1)
+print('the second tuple is')
+print(tuple_2)
+print('tuple after merge')
+print(tuple_3)
